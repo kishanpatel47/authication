@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_notification.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_notification.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_button.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_button.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_modalheader.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_modalheader.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_food.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_food.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_nutritiontab.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_nutritiontab.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_header2.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_header2.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_chart.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_chart.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_settings.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_settings.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_program1.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_program1.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_exercise.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_exercise.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_redbutton.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_redbutton.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_line.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_line.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_singlearow.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_singlearow.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_avatar.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_avatar.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_nutritionfacts.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_nutritionfacts.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_doublearrow.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_doublearrow.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_program2.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_program2.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_arrowdown.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_arrowdown.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_mainbg.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_mainbg.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_forwardimg.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_forwardimg.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_button2.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_button2.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_close.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_close.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_arrowup.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_arrowup.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_protinebox.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_protinebox.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_polygon.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_polygon.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_dumbell.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_dumbell.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_stats.png.flat",
+        "source": "/Users/gauravsaini/Documents/Gaurav/fitness/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_stats.png"
+    }
+]
